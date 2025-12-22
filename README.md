@@ -5,7 +5,7 @@ This repository is used to store download links for firmware.
 
 | **Products list** | **Download link** | Latest version     |
 | --- | --- | --- |
-| Femto Bolt       | [Femto Bolt Firmware](https://github.com/orbbec/OrbbecFirmware/releases/tag/Femto-Bolt-Firmware) |     v1.1.2       |
+| Femto Bolt       | [Femto Bolt Firmware](https://github.com/orbbec/OrbbecFirmware/releases/tag/Femto-Bolt-Firmware) |     v1.1.3       |
 | Femto Mega       | [Femto Mega Firmware](https://github.com/orbbec/OrbbecFirmware/releases/tag/Femto-Mega-Firmware) |     v1.3.1       |
 | Gemini 2       |  [Gemini 2 Firmware ](https://github.com/orbbec/OrbbecFirmware/releases/tag/Gemini2-Firmware)|     v1.4.98      |
 | Gemini 2 L       | [Gemini 2L Firmware ](https://github.com/orbbec/OrbbecFirmware/releases/tag/Gemini2L-Firmware)|     v1.5.02       |
