@@ -12,6 +12,7 @@ This repository is used to store download links for firmware.
 | Astra 2       | [Astra 2 Firmware](https://github.com/orbbec/OrbbecFirmware/releases/tag/Astra2-Firmware) |     v2.8.20      |
 | Femto Mega I       | [Femto Mega I Firmware](https://github.com/orbbec/OrbbecFirmware/releases/tag/Femto-Mega-I-Firmware) |     v2.0.4       |
 | Gemini 330 series  |  [Gemini 330 series Firmware](https://www.orbbec.com/docs/g330-firmware-release/?_gl=1)   |          |
+| Gemini 305      | [Gemini 305 Firmware](https://doc.orbbec.com/documentation/Gemini%20305%20Series%20Documentation/Firmware%20Release%20of%20Gemini%20305)                                   |
 | Gemini 215       | [Gemini 215](https://github.com/orbbec/OrbbecFirmware/releases/tag/Gemini215-Firmware) |     v1.0.9       |
 | Gemini 210       | [Gemini 210](https://github.com/orbbec/OrbbecFirmware/releases/tag/Gemini210-Firmware) |     v1.0.9       |
 | Gemini 435Le       | [Gemini 435Le](https://github.com/orbbec/OrbbecFirmware/releases/tag/Gemin435Le-Firmware) |    v1.3.11       |
