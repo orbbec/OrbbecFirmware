@@ -18,6 +18,7 @@ This repository is used to store download links for firmware.
 | Gemini 435Le       | [Gemini 435Le](https://github.com/orbbec/OrbbecFirmware/releases/tag/Gemin435Le-Firmware) |    v1.3.11       |
 | Astra mini Pro      | [Astra mini Pro](https://github.com/orbbec/OrbbecFirmware/releases/tag/Astra-Mini-Pro) |    v2.0.03       |
 | Astra mini S Pro       | [Astra mini S Pro](https://github.com/orbbec/OrbbecFirmware/releases/tag/Astra-Mini-S-Pro) |    v2.0.03       |
+| Gemini 340 series       | [Gemini 340 series Firmware]() |    v1.9.03       |
 
 
 
